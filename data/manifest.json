@@ -1,0 +1,61 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261010,
+  "series_per_family": 200,
+  "total_series": 2600,
+  "families": {
+    "ciclo_diario": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "viral": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "evento_curto": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "campanha_estavel": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "baixo_volume": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "ondas": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "contador_em_lotes": {
+      "label": "legitimo",
+      "series": 200
+    },
+    "pacote": {
+      "label": "artificial",
+      "series": 200
+    },
+    "pulsos": {
+      "label": "artificial",
+      "series": 200
+    },
+    "blocos": {
+      "label": "artificial",
+      "series": 200
+    },
+    "compra_no_lancamento": {
+      "label": "artificial",
+      "series": 200
+    },
+    "rajada": {
+      "label": "artificial",
+      "series": 200
+    },
+    "compra_disfarcada": {
+      "label": "artificial",
+      "series": 200
+    }
+  },
+  "sha256": "8015dc3a100cc8b897c03a4ec2d8044856b4c1582260be7e63f59c44e9ed5f36"
+}
